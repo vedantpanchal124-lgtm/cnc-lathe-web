@@ -1,1 +1,1 @@
-project
+cnc-lathe-web
